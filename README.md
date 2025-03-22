@@ -2,7 +2,7 @@
 
 Database website Indonesia yang terorganisir dan mudah diakses.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/yourusername/direktori-cyber-kuning/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ni-zav/direktori-cyber-kuning/blob/main/LICENSE)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fdirektori-cyber-kuning.vercel.app)](https://direktori-cyber-kuning.vercel.app)
 
 ## 📖 Tentang Proyek
