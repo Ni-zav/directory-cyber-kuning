@@ -58,7 +58,7 @@ Kami sangat menghargai kontribusi Anda! Berikut cara untuk berkontribusi:
 - Website harus aktif dan dapat diakses
 - Memberikan nilai bagi pengguna internet Indonesia
 
-Untuk panduan lebih detail, silakan kunjungi [halaman Kontribusi](/kontribusi).
+Untuk panduan lebih detail, silakan kunjungi [halaman Kontribusi](https://direktori-cyber-kuning.vercel.app/kontribusi).
 
 ## 🛠️ Teknologi
 
